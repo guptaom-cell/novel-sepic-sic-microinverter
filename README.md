@@ -1,9 +1,5 @@
 # novel-sepic-sic-microinverter
 Design, simulation, and control of a 500W novel SEPIC-based SiC microinverter using SPWM.
-# 500W Single-Stage Novel SEPIC-Based SiC Microinverter
-
-Design, simulation, and control of a high-efficiency 500W, 50kHz single-stage SEPIC microinverter ($45\text{ V}_{mp}$ to $230\text{ VAC}$) using SPWM control and Silicon Carbide (SiC) MOSFETs.
-
 ---
 
 # 500W Single-Stage Novel SEPIC-Based SiC Microinverter
